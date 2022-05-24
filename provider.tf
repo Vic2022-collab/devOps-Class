@@ -1,3 +1,4 @@
+[00:09:38] [$$ enctrypted $$]
 #specifying the provider 
 
 terraform {

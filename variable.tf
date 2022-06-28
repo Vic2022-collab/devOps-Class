@@ -1,4 +1,3 @@
-[17:07:16] [$$ enctrypted $$]
 variable "vpc-cidr" {
   type        = string
   description = "name of vpc cidr"

@@ -1,4 +1,3 @@
-[20:20:03] [$$ enctrypted $$]
 # creating aws networking for a project
 
 resource "aws_vpc" "Project_Terraform" {
